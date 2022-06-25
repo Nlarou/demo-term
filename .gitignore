@@ -1,0 +1,4 @@
+**/node_modules
+backend/PythonScript/modle.pkl
+backend/PythonScript/transformer.pkl
+env
