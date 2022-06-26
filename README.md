@@ -1,5 +1,5 @@
 # demo-term
- ## Live view : https://demo-ai-v1.herokuapp.com/
+ Live view : https://demo-ai-v1.herokuapp.com/
  ## Summary
  The goal of the ai is to in the end be able to detect and warn the user about problematic term of service of a service.
  ## Accuracy
