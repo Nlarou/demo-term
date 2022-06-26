@@ -1,9 +1,10 @@
 # demo-term
  Live view : https://demo-ai-v1.herokuapp.com/
  ## Summary
- The goal of the ai is to in the end be able to detect and warn the user about problematic term of service of a service.
+ The primary goal of the ai is to determine which case a text from a term of service belongs to.
+ Ai take a legal text from a term and condition and output the classification probability.
  ## Accuracy
- The Accuracy of the ai is currently at 79% for the first option and 69% for the 3 options
+ The Accuracy of the ai is currently at 79% for the first option and 69% for the 3 options (MRR)
  ## Example
  `Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time …You acknowledge and agree that Apple may, without liability to you, access, use, preserve and/or disclose your Account information and Content to law enforcement authorities, government officials, and/or a third party, as Apple believes is reasonably necessary or appropriate.`
  
