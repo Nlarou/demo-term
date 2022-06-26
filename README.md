@@ -1,8 +1,8 @@
 # demo-term
  Live view : https://demo-ai-v1.herokuapp.com/
  ## Summary
- The primary goal of the ai is to determine which case a text from a term of service belongs to.
- Ai take a legal text from a term and condition and output the classification probability.
+ The primary goal of the ai is to classify in which cases a text from a term of service belongs to.
+ Ai take in a text then output the classification probability.
  ## Accuracy
  The Accuracy of the ai is currently at 79% for the first option and 69% for the 3 options (MRR)
  ## Example
