@@ -1,10 +1,10 @@
 # demo-term
  Live view : https://demo-ai-v1.herokuapp.com/
  ## Summary
- The primary goal of the ai is to classify in which cases a text from a term of service belongs to.
- Ai take in a text then output the classification probability.
+ The primary goal of the AI is to classify in which cases a text from a term of service belongs to.
+ AI take in a text then output the classification probability.
  ## Accuracy
- The Accuracy of the ai is currently at 79% for the first option and 69% for the 3 options (MRR)
+ The accuracy of the AI is currently at 79% for the first option and 69% for the 3 options (MRR)
  ## Example
  `Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time …You acknowledge and agree that Apple may, without liability to you, access, use, preserve and/or disclose your Account information and Content to law enforcement authorities, government officials, and/or a third party, as Apple believes is reasonably necessary or appropriate.`
  
